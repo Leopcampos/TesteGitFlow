@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ylvKYOHHkvIEN5bzVnQNLG2I6/GrhRONp/OGtKOWu8TJJPqsRF4TU4ttlKM+kTPXufhSOrHfY2vfGZmDPYwUOA==",
+  "dgSpecHash": "8ea6h1L2Cn+Ag1NF+mCrCIUScE3psIQMlmtVvk10WteXXBOnY8HXGNszTJ6Rsm6EBJG3u0Sp/ZSu6JmilqLktA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leopc\\Downloads\\Teste\\Teste\\Teste.csproj",
+  "projectFilePath": "C:\\Projetos\\TesteGitFlow\\Teste\\Teste.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
